@@ -1,0 +1,22 @@
+{
+	"Grapes":{
+		"content":"Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer, including esophageal, lung, mouth, pharynx, endometrial, pancreatic, prostate and colon.",
+        "src":"grapes.jpg"
+	 },
+	"Apple":{
+		"content":"Apple fruit contains good quantities of vitamin-C and beta-carotene. Vitamin C is a powerful natural antioxidant. Consumption of foods rich in vitamin-C helps the body develop resistance against infectious agents and scavenge harmful, pro-inflammatory free radicals from the body.",
+		 "src":"apple.jpg"
+		},
+	"Mango":{
+		"content":"Fresh mango is a good source of potassium. 100 g fruit provides 156 mg of potassium while just 2 mg of sodium. Potassium is an important component of cell and body fluids that helps controlling heart rate and blood pressure.",
+		 "src":"mango.jpg"
+		},
+	"Guava":{
+		"content":"The health benefits of guava include the treatment of diarrhea, dysentery, constipation, cough, cold, skin care, high blood pressure, weight loss and scurvy.",
+		 "src":"guava.jpg"
+		},
+	"Orange":{
+		"content":"Orange fruit contains a variety of phytochemicals. Hesperetin, naringin, and naringenin are flavonoids found in citrus fruits. Naringenin is found to have a bioactive effect on human health as antioxidant, free radical scavenger, anti-inflammatory, and immune system modulator. This substance has also been shown to reduce oxidant injury to DNA in-vitro studies. Total antioxidant strength (ORAC) of oranges (navel variety) is 1,819 µmol TE/100 g.",
+		 "src":"orange.jpg"
+		}
+}

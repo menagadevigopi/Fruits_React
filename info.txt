@@ -1,0 +1,6 @@
+This is built by using react.
+It includes ajax call , binding click event,dynamic content .
+1st install all the packages which were indicated in package.json
+~npm install 
+~npm start
+for server.
